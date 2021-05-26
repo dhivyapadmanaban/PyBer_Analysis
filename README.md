@@ -12,8 +12,16 @@ This project helps to improve access to ride sharing ability and determine affor
 
 ![image](https://user-images.githubusercontent.com/83181834/119706520-f0944300-be0e-11eb-9781-42729e4f6465.png)
 
+### Rural
+- 
 
+### Suburban
 
+### Urban
+
+- **Total Fare by City Type**
 ![image](https://user-images.githubusercontent.com/83181834/119706629-1588b600-be0f-11eb-821d-351fa98c504c.png)
 
 ## Summary
+
+![image](https://user-images.githubusercontent.com/83181834/119712371-5e436d80-be15-11eb-8948-2d688a1228a8.png)
