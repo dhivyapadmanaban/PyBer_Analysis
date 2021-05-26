@@ -12,14 +12,19 @@ This project helps to improve access to ride sharing ability and determine affor
 
 ![image](https://user-images.githubusercontent.com/83181834/119706520-f0944300-be0e-11eb-9781-42729e4f6465.png)
 
-### Rural
+### Total Drivers - Rural vs Suburban v Urban
 - 
 
-### Suburban
+### Total Rides - Rural vs Suburban v Urban
 
-### Urban
+### Total Fares - Rural vs Suburban v Urban
 
-- **Total Fare by City Type**
+### Average Fare per ride - Rural vs Suburban v Urban
+
+### Average fare per driver - Rural vs Suburban v Urban
+
+### Total Fares - Rural vs Suburban v Urban
+
 ![image](https://user-images.githubusercontent.com/83181834/119706629-1588b600-be0f-11eb-821d-351fa98c504c.png)
 
 ## Summary
