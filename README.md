@@ -40,6 +40,6 @@ Following bar chart shows driver vs rides insight for each city type. Based on a
 
 ![image](https://user-images.githubusercontent.com/83181834/119712371-5e436d80-be15-11eb-8948-2d688a1228a8.png)
 
-- Average fare per ride and average fare per driver is more in Rural. To bring down the numbers and distribute the data better, we should either increase the rides or decrease the number of drivers.
-- Average fare per ride is more in suburban city, increasing the rides will help riders get good deal on their rides.
-- Average fare per driver is very less for Urban city. Decreasing the driver count will result in better pay for drivers. 
+- Average fare per ride and average fare per driver is more in Rural. To bring down the numbers and distribute the data better for Rural, we should either increase the rides or limit the number of drivers.
+- Average fare per ride is more in suburban city, increasing the rides in the same route will help riders get good deal on their rides.
+- Average fare per driver is very less for Urban city. Include new routes will results in rides numbers thereby average driver fare will be increased. 
